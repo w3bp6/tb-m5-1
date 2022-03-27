@@ -177,8 +177,6 @@
                 echo "Either number or password is empty.<br>";
             }
         }
-      
-        //POST送信時に指定ページへ移動させる→戻ると元のPOSTが空になる（二重投稿防止）
 
     ?>
 
